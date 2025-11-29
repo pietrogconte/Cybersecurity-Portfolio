@@ -1,0 +1,27 @@
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos de configuração de IDEs
+.vscode/
+.idea/
+
+# Arquivos de log
+*.log
+
+# Arquivos de ambiente
+.env
+
+# Arquivos de compilação
+*.pyc
+__pycache__/
+
+# Arquivos de ferramentas
+.nmap
+.sqlmap/
+
+# Scans e outputs
+*.nmap
+*.gnmap
+*.xml
+*.gnmap_scan
