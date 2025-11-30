@@ -1,6 +1,6 @@
 # Pietro Giacomin Conte - Cybersecurity Portfolio
 
-![Banner](https://via.placeholder.com/1200x300.png?text=Cybersecurity+Portfolio) <!-- Substituir por um banner personalizado -->
+<!-- ![Banner](https://via.placeholder.com/1200x300.png?text=Cybersecurity+Portfolio) <!-- Substituir por um banner personalizado -->
 
 ## 👨‍💻 Sobre Mim
 
