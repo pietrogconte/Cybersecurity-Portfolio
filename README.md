@@ -1,72 +1,63 @@
 # Pietro Giacomin Conte - Cybersecurity Portfolio
 
-<!-- ![Banner](https://via.placeholder.com/1200x300.png?text=Cybersecurity+Portfolio) <!-- Substituir por um banner personalizado -->
-
 ## 👨‍💻 Sobre Mim
 
-Olá! Sou Pietro Giacomin Conte, Sargento de carreira do Exército Brasileiro e Analista de Segurança Cibernética com 8+ anos de experiência em tecnologia e defesa. Atualmente, integro o Red Team em operações de segurança ofensiva, com foco em testes de invasão, análise de vulnerabilidades e forense digital.
+Especialista de Guerra Cibernética integrando o Red Team, com experiência prática em testes de invasão (pentest), coleta de informações (OSINT), engenharia social e análise forense em dispositivos móveis e computadores.
 
-Este repositório serve como meu portfólio técnico, onde documento meus estudos, projetos, scripts e writeups de CTFs. Meu objetivo é aplicar minha expertise em ambientes corporativos desafiadores, contribuindo para a proteção de ativos críticos.
+Pesquisador em segurança de IA, com foco em pipelines de dados sintéticos e validação de exploitabilidade em modelos de detecção de vulnerabilidades — unindo minha experiência em Red Team à pesquisa aplicada em inteligência artificial.
 
-- 🔗 **LinkedIn:** [linkedin.com/in/pietro-giacomin-conte](https://www.linkedin.com/in/pietro-giacomin-conte-69977626b/)
-- 📧 **E-mail:** pietro_conte@hotmail.com
+Este repositório serve como meu portfólio técnico, onde documento meus estudos, scripts e progresso em segurança ofensiva.
+
+🔗 LinkedIn: linkedin.com/in/pietro-giacomin-conte-69977626b
+📧 E-mail: pietro_conte@hotmail.com
 
 ---
 
-## 🚀 Meu Progresso de Estudos (Plano de 4 Meses)
+## 🚀 Progresso em TryHackMe
 
-| Mês | Foco Principal | Status | Plataforma Principal |
-|:---:|:----------------|:------:|:--------------------:|
-| 1   | Fundamentos     | ⏳ Em Andamento | TryHackMe            |
-| 2   | Web & Infra     | ⬜ A Fazer      | PortSwigger & THM    |
-| 3   | Prática Guiada  | ⬜ A Fazer      | HackTheBox & THM     |
-| 4   | Desafio & Prep  | ⬜ A Fazer      | HackTheBox           |
+| Path | Status |
+|---|---|
+| Pre Security | ✅ Concluído |
+| Cyber Security 101 | 🔄 Em andamento (32%) |
 
 ---
 
 ## 📂 Estrutura do Repositório
 
-- **/Writeups:** Resoluções detalhadas de desafios de CTF (TryHackMe, HackTheBox).
-- **/Scripts:** Ferramentas e scripts de automação em Python e Bash.
-- **/Notes:** Anotações de estudo sobre vulnerabilidades, ferramentas e conceitos.
-- **/Projects:** Projetos pessoais de segurança (em breve).
-
----
-
-## 📝 Writeups Recentes
-
-- [TryHackMe] - [Nome da Sala 1](Writeups/TryHackMe/sala1.md)
-- [TryHackMe] - [Nome da Sala 2](Writeups/TryHackMe/sala2.md)
-- [HackTheBox] - [Nome da Máquina 1](Writeups/HackTheBox/maquina1.md)
+- `/Writeups`: Resoluções de desafios de CTF (em construção — ainda sem writeups publicados)
+- `/Scripts`: Ferramentas e scripts de automação em Python e Bash
+- `/Notes`: Anotações de estudo sobre vulnerabilidades, ferramentas e conceitos
+- `/Projects`: Projetos pessoais de segurança (em construção)
 
 ---
 
 ## 🛠️ Habilidades e Ferramentas
 
-- **Segurança Ofensiva:** Penetration Testing, Red Teaming, OSINT, Engenharia Social
-- **Segurança Defensiva:** Análise Forense, Resposta a Incidentes, Análise de Malwares
+Ferramentas utilizadas durante o Curso de Guerra Cibernética e prática em Red Team:
+
+- **Segurança ofensiva:** Penetration Testing, Red Teaming, OSINT, Engenharia Social
+- **Segurança defensiva:** Análise Forense
 - **Ferramentas:** Burp Suite, Nmap, Metasploit, Wireshark, SQLmap, John the Ripper
 - **Linguagens:** Python, Bash
 - **Sistemas:** Kali Linux, Parrot OS, Windows
-- **Cloud:** AWS (Conceitos Fundamentais)
-- **Frameworks:** OWASP Top 10, MITRE ATT&CK, ITIL
+- **Cloud:** AWS (conceitos fundamentais)
 
 ---
 
 ## 📜 Certificações
 
 | Certificação | Emissor | Ano |
-|:---|:---|:---:|
+|---|---|---|
+| DCPT (Desec Certified Penetration Tester) | Desec Security | 2026 |
 | Teste de Invasão de Aplicações Web | Escola Superior de Redes (ESR) | 2025 |
 | Novo Pentest Profissional | Desec Security | 2024 |
 | Pentest Experience | Desec Security | 2024 |
 | Cisco Certified CyberOps Associate | Cisco Networking Academy | 2022 |
 | PCAP – Programming Essentials in Python | Cisco Networking Academy | 2022 |
 | AWS Academy Cloud Foundations | Amazon Web Services (AWS) | 2022 |
-| ... (e outras) | ... | ... |
 
 ---
 
 ## 📞 Contato
 
-Sinta-se à vontade para entrar em contato comigo pelo [LinkedIn](https://www.linkedin.com/in/pietro-giacomin-conte-69977626b/) ou por e-mail.
+Sinta-se à vontade para entrar em contato comigo pelo LinkedIn ou por e-mail.
