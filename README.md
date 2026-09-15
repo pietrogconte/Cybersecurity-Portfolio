@@ -8,24 +8,21 @@ Pesquisador em segurança de IA, com foco em pipelines de dados sintéticos e va
 
 Este repositório serve como meu portfólio técnico, onde documento meus estudos, scripts e progresso em segurança ofensiva.
 
-🔗 LinkedIn: linkedin.com/in/pietro-giacomin-conte-69977626b
+🔗 LinkedIn: [linkedin.com/in/pietro-giacomin-conte-69977626b](https://linkedin.com/in/pietro-giacomin-conte-69977626b/)
 📧 E-mail: pietro_conte@hotmail.com
 
 ---
 
-## 🚀 Progresso em TryHackMe
+## 🚀 Formação Contínua
 
-| Path | Status |
-|---|---|
-| Pre Security | ✅ Concluído |
-| Cyber Security 101 | 🔄 Em andamento (32%) |
+Trilha ativa em segurança ofensiva no TryHackMe, com formação complementar em redes (CCNA), ciência de dados aplicada (Python) e engenharia de prompt — além de certificações formais listadas abaixo.
 
 ---
 
 ## 📂 Estrutura do Repositório
 
 - `/Writeups`: Resoluções de desafios de CTF (em construção — ainda sem writeups publicados)
-- `/Scripts`: Ferramentas e scripts de automação em Python e Bash
+- `/Scripts`: Ferramentas e scripts de automação em Python e Bash — já inclui [`port_scanner.py`](Scripts/port_scanner.py), um scanner de portas básico usando sockets
 - `/Notes`: Anotações de estudo sobre vulnerabilidades, ferramentas e conceitos
 - `/Projects`: Projetos pessoais de segurança (em construção)
 
@@ -41,6 +38,18 @@ Ferramentas utilizadas durante o Curso de Guerra Cibernética e prática em Red 
 - **Linguagens:** Python, Bash
 - **Sistemas:** Kali Linux, Parrot OS, Windows
 - **Cloud:** AWS (conceitos fundamentais)
+
+---
+
+## 🤖 Habilidades e Ferramentas de IA
+
+Stack usada em projetos de IA aplicada já publicados ([chatpdf-rag](https://github.com/pietrogconte/chatpdf-rag), [pdf-translator](https://github.com/pietrogconte/pdf-translator)):
+
+- **IA local/aplicada:** RAG (Retrieval-Augmented Generation), pipelines de embeddings e busca vetorial
+- **Ferramentas:** Ollama, ChromaDB, LangGraph, Pydantic
+- **Linguagem:** Python
+
+> Também atuo como pesquisador em segurança de IA no BLIS (Brazilian Laboratory for Intelligence Systems) — detalhes no [README do meu perfil](https://github.com/pietrogconte/pietrogconte).
 
 ---
 
